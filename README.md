@@ -24,7 +24,7 @@ By default, the bot requires the permissions to Send Messages, Manage Messages, 
 
 # Privacy Policy:
 
-This is mainly here for Discord's legal purposes. We collect 0 data. The only data that is fed into the bot is your account and message if it contains a steam link. There is no information saved or used for any purposes, good or bad here.
+This is mainly here for Discord's legal purposes, with regards to our official bot labelled ShuuBox#4116. Messages (and by extent profiles) do automatically go through the bot, but only so that it can check whether or not there is a steam link inside. However, the bot does not store any messages, so there is no information that can be saved or used in any capacity. Because there is no storage or permantent collection of data, we physically cannot use or share your data to anyone for good or bad purposes. We take data very seriously and will do our best to ensure the security of your data. We may update this Privacy Policy from time to time, and it will always be shown on our GitHub page. **However, I as the developer of this specific bot have 0 intention on changing this policy and will only be updating it for clarity or wording's sake.** By using the SteamLinker Bot in your server, you acknowledge and accept the listed policy. **I cannot guarantee that this policy is the same on any fork or variant outside of our official bot, ShuuBox#4116.**
 
 # Terms of Service:
 
